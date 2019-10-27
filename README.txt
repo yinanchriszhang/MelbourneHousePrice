@@ -5,7 +5,9 @@ https://discover.data.vic.gov.au/dataset/victorian-property-sales-report-median-
 Combined with additional data from 
 https://goo.gl/VbLsLg
 
-The program itself is a Shiny-R dashboard.   
+The program itself is a Shiny-R dashboard.   You can see how it runs here:
+https://chriszhang.shinyapps.io/HousePrice-Melbourne/
+
 
 ## Improvements
 
